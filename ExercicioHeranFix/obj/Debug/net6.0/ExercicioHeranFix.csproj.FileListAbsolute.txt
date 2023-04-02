@@ -1,0 +1,15 @@
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\bin\Debug\net6.0\ExercicioHeranFix.exe
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\bin\Debug\net6.0\ExercicioHeranFix.deps.json
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\bin\Debug\net6.0\ExercicioHeranFix.runtimeconfig.json
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\bin\Debug\net6.0\ExercicioHeranFix.dll
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\bin\Debug\net6.0\ExercicioHeranFix.pdb
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ExercicioHeranFix.csproj.AssemblyReference.cache
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ExercicioHeranFix.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ExercicioHeranFix.AssemblyInfoInputs.cache
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ExercicioHeranFix.AssemblyInfo.cs
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ExercicioHeranFix.csproj.CoreCompileInputs.cache
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ExercicioHeranFix.dll
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\refint\ExercicioHeranFix.dll
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ExercicioHeranFix.pdb
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ExercicioHeranFix.genruntimeconfig.cache
+D:\PROJETOS CS\ExercicioHeranFix\ExercicioHeranFix\obj\Debug\net6.0\ref\ExercicioHeranFix.dll
